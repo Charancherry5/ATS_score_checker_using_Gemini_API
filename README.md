@@ -20,4 +20,4 @@ An intelligent **ATS (Applicant Tracking System) Resume Scanner** powered by **G
 3️⃣ **Get your ATS Score** + AI-generated resume optimization tips!  
 
 ## 📷 Screenshot  
-![Preview]([assets/screenshot.png](https://github.com/Charancherry5/ATS_score_checker_using_Gemini_API/blob/main/ATS_cheaker.png))  
+![Preview](https://github.com/Charancherry5/ATS_score_checker_using_Gemini_API/blob/main/ATS_cheaker.png)  
