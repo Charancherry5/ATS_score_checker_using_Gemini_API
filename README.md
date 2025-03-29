@@ -1,2 +1,31 @@
-# ATS_score_checker_using_Gemini_API
-An intelligent ATS (Applicant Tracking System) Resume Scanner powered by Google Gemini AI! This tool analyzes resumes, calculates ATS scores, and provides AI-driven feedback to optimize job applications.
+# 🚀 AI-Powered ATS Resume Scanner  
+
+![ATS Scanner](assets/ats_scanner_small.png)  
+
+An intelligent **ATS (Applicant Tracking System) Resume Scanner** powered by **Google Gemini AI**! This tool analyzes resumes, calculates ATS scores, and provides AI-driven feedback to optimize job applications.  
+
+## ✨ Features  
+✅ **ATS Score Calculation** – Matches resume with job descriptions  
+✅ **AI-Powered Feedback** – Highlights missing skills & improvements  
+✅ **Keyword Optimization** – Ensures ATS compatibility  
+✅ **Simple UI** – Built with Gradio for ease of use  
+
+## 🛠️ Tech Stack  
+- **Python** 🐍  
+- **NLTK** (Natural Language Processing)  
+- **Google Gemini AI** 🤖  
+- **Gradio** (for UI)  
+
+## 🚀 How It Works  
+1️⃣ **Upload** your resume (PDF or DOCX)  
+2️⃣ **Select** a job title or enter a custom job description  
+3️⃣ **Get your ATS Score** + AI-generated resume optimization tips!  
+
+## 📷 Screenshot  
+![Preview](assets/screenshot.png)  
+
+## 📌 Installation  
+```bash
+git clone https://github.com/yourusername/ats-resume-scanner.git
+cd ats-resume-scanner
+pip install -r requirements.txt
