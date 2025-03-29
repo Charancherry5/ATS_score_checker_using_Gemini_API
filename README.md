@@ -21,5 +21,3 @@ An intelligent **ATS (Applicant Tracking System) Resume Scanner** powered by **G
 
 ## 📷 Screenshot  
 ![Preview]([assets/screenshot.png](https://github.com/Charancherry5/ATS_score_checker_using_Gemini_API/blob/main/ATS_cheaker.png))  
-
-
